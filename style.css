@@ -1,0 +1,144 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    font-family: "Outfit", sans-serif;
+    color:hsl(30, 10%, 34%);
+}
+
+.main{
+    background-color:  hsl(30, 54%, 90%);
+}
+
+.container{
+    height: 210vh;
+    width: 600px;
+    background-color: white;
+    padding: 35px 5px;
+    text-align: center;
+    margin: 0px auto 10px;
+    border-radius: 16px;
+}
+
+.container img{
+    height: 27vh;
+    width: 530px;
+   border-radius: 16px;
+}
+
+.first{
+    background-color: hsla(332, 51%, 32%, 0.123); 
+    height: 20vh; 
+    width: 540px;
+    margin-left: 25px; 
+    border-radius: 10px;
+}
+
+.first p{
+    text-align: start;
+    padding-top: 20px;
+    margin-left: 25px;
+}
+
+.first p b{
+    color:  hsl(332, 51%, 32%);
+}
+
+.first ul{
+    text-align: start;
+}
+
+.first small{
+    font-size: 16px;
+}
+
+.first li{
+    padding-top: 10px;
+     color:  hsl(332, 51%, 32%);
+}
+
+.txt1{
+    color:  hsl(332, 51%, 32%);
+}
+
+.second h1{
+    text-align: start; 
+    padding-left: 35px;
+    font-family:Young Serif, serif; 
+    color: hsl(14, 45%, 36%);
+}
+
+.second ul{
+    text-align: start;
+    padding-left: 50px;
+}
+
+.second li{
+    color: hsl(14, 45%, 36%);
+    padding-top: 10px;
+}
+
+.second small{
+font-size: 16px;
+}
+
+.third h1{
+    text-align: start; 
+    padding-left: 35px; 
+    font-family:Young Serif, serif;
+    color: hsl(14, 45%, 36%);
+}
+
+.third ol{
+    text-align: start; 
+    padding-left: 50px; 
+    padding-right: 40px;
+}
+
+.third li{
+    color: hsl(14, 45%, 36%); padding-top: 10px;
+}
+
+.third small{
+    font-size: 16px;
+}
+
+.fourth h1{
+    text-align: start;
+    padding-left: 25px;
+    font-family:Young Serif, serif;
+    color: hsl(14, 45%, 36%);
+}
+
+.fourth small{
+    padding-right: 65px;
+    font-size: 13.5px;
+}
+
+.alldiv{
+    display: flex;
+     justify-content: space-between;
+}
+
+.alldiv p{
+    padding-left: 50px; 
+    padding-top: 3px;
+}
+
+.alldiv b{
+    color: hsl(14, 45%, 36%);
+     padding-right: 250px; 
+     padding-top: 20px;
+}
+.line{
+border: grey 0.1px solid;
+margin-left: 25px;
+margin-right: 25px;
+margin-top: 40px;
+}
+
+.line2{
+    border: grey 0.1px solid;
+    margin-left: 25px;
+    margin-right: 25px;
+}
